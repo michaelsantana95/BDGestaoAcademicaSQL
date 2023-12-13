@@ -6,8 +6,7 @@ Participantes:
 - Michael Santana
 - Thomaz Melo Cruz Neto
 
-# Banco de Dados para Gestão Acadêmica
-Ensino Fundamental I (1º ao 5º ano)
+# BD para Gestão Acadêmica Ensino Fundamental I (1º ao 5º ano)
 
 ## Curso Vem Ser Tech - Dados
 
