@@ -25,7 +25,7 @@ referencial no modelo conceitual.
 3. **Mapeamento para o Modelo Lógico:**
 Transformação do MER em um modelo relacional. Definindo as tabelas, os esquemas e os atributos. Estabelecendo chaves primárias e estrangeiras.
 
-4. **Normalização do Banco de Dados:**
+4.**Normalização do Banco de Dados:**
 Aplicação de técnicas de normalização para garantir eficiência e integridade.
 
 6. **Implementação do Banco de Dados:**
