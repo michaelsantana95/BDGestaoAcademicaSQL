@@ -28,7 +28,7 @@ Transformação do MER em um modelo relacional. Definindo as tabelas, os esquema
 4. **Normalização do Banco de Dados:**
 Aplicação de técnicas de normalização para garantir eficiência e integridade.
 
-5. **Implementação do Banco de Dados:**
+6. **Implementação do Banco de Dados:**
 Foi utilizado PostgreSQL para criação do banco de dados conforme o modelo lógico. Inserindo dados iniciais fictícios no banco de forma manual e por importação de arquivos .csv.
 
 7. **Criação de Views:**
