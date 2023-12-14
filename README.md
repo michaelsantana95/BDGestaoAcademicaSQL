@@ -25,13 +25,13 @@ referencial no modelo conceitual.
 3. **Mapeamento para o Modelo Lógico:**
 Transformação do MER em um modelo relacional. Definindo as tabelas, os esquemas e os atributos. Estabelecendo chaves primárias e estrangeiras.
 
-4.**Normalização do Banco de Dados:**
+4. **Normalização do Banco de Dados:**
 Aplicação de técnicas de normalização para garantir eficiência e integridade.
 
-6. **Implementação do Banco de Dados:**
+5. **Implementação do Banco de Dados:**
 Foi utilizado PostgreSQL para criação do banco de dados conforme o modelo lógico. Inserindo dados iniciais fictícios no banco de forma manual e por importação de arquivos .csv.
 
-7. **Criação de Views:**
+6. **Criação de Views:**
 Desenvolvimento de views relevantes para consultas específicas no contexto do sistema foram:
     - Alunos por turma;
     - Notas por aluno;
