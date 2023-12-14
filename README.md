@@ -32,4 +32,8 @@ Aplicação de técnicas de normalização para garantir eficiência e integrida
 Foi utilizado PostgreSQL para criação do banco de dados conforme o modelo lógico. Inserindo dados iniciais fictícios no banco de forma manual e por importação de arquivos .csv.
 
 7. **Criação de Views:**
-Desenvolvimento de views relevantes para consultas específicas no contexto do sistema foram
+Desenvolvimento de views relevantes para consultas específicas no contexto do sistema foram:
+  - Alunos por turma;
+  - Notas por aluno;
+  - Situação de final de ano (aprovado ou reprovado) e
+  - Desempenho das turmas em cada disciplina.
