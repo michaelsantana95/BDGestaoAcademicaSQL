@@ -7,6 +7,7 @@ Participantes:
 - Thomaz Melo Cruz Neto
 
 # BD para Gestão Acadêmica Ensino Fundamental I (1º ao 5º ano)
+![image](https://github.com/michaelsantana95/BDGestaoAcademicaSQL/assets/114180225/549de362-19b5-4479-8b67-7b41c49be9b3)
 
 ## Curso Vem Ser Tech - Dados
 
@@ -31,5 +32,4 @@ Aplicação de técnicas de normalização para garantir eficiência e integrida
 Foi utilizado PostgreSQL para criação do banco de dados conforme o modelo lógico. Inserindo dados iniciais fictícios no banco de forma manual e por importação de arquivos .csv.
 
 7. **Criação de Views:**
-Identifique cenários onde a criação de views pode ser benéfica. 
-Desenvolva views relevantes para consultas específicas no contexto do sistema do tipo de negócio escolhido. Utilize as operações aprendidas em aulas, como agregações, junções, entre outras.
+Desenvolvimento de views relevantes para consultas específicas no contexto do sistema foram
